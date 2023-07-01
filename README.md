@@ -97,44 +97,12 @@ cd src/Example
 dotnet run
 ```
 
-## Other resources
-
-Other resources that may interest you related to this example project:
-
-* [Integration testing - docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-3.0)
-* [Generic repository pattern in .NET Core - medium.com](https://medium.com/@marekzyla95/generic-repository-pattern-implemented-in-net-core-with-ef-core-c7e088c9c58)
-* [Buefy Vue.js framework expo - buefy.org](https://buefy.org/expo)
-
 ## Contribution
 
 Feel free to submit a pull request
 
 ## Contact
+	skype: live:.cid.5d1a82b4c01907a4
+	discord: fourmagic#5051
+   telegram: @fourmagic
 
-See my email in my profile on GitHub.
-
-## License
-
-```
-MIT License
-
-Copyright (c) 2019 Matus Novak
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
